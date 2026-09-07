@@ -6,9 +6,9 @@ A small collection of command-line Python tools for validating and generating pa
 
 | Project | Description |
 |---|---|
-| [1. Password Validator](./1-password-validator) | Checks a password against a set of security rules and reports exactly which rule failed. |
-| [2. Random Password Generator](./2-random-password-generator) | Generates a random, rule-compliant password with no user input required. |
-| [3. Interactive Password Generator](./3-password-generator-with-preferences) | Menu-driven tool where the user chooses password length and which character types to include, with input validation and a repeatable session loop. |
+| [1. Password Validator](./password-validator) | Checks a password against a set of security rules and reports exactly which rule failed. |
+| [2. Random Password Generator](./random-password-generator) | Generates a random, rule-compliant password with no user input required. |
+| [3. Interactive Password Generator](./password-generator-with-preferences) | Menu-driven tool where the user chooses password length and which character types to include, with input validation and a repeatable session loop. |
 
 Each subfolder has its own README with setup instructions, usage examples, and notes on how that project works.
 
